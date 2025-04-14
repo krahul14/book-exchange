@@ -1,26 +1,18 @@
 [
   {
     "id": "f950e06f-c31d-488e-8c7d-a3d5f31465be",
-    "name": "Kumar Rahul Rahul",
-    "email": "krahul52002@gmail.com",
-    "password": "Rahul@123",
-    "mobile": "06204851201",
+    "name": "Seeker",
+    "email": "demo_seeker@gmail.com",
+    "password": "12345",
+    "mobile": "1122334455",
     "role": "seeker"
   },
   {
     "id": "46ae15a9-7985-4de6-87f5-340b53ec01a7",
-    "name": "Kumar Rahul",
-    "email": "sdf@gmail.com",
-    "password": "Rahul@123",
-    "mobile": "620485120",
-    "role": "owner"
-  },
-  {
-    "id": "be96c0b3-557b-4c4a-acd0-f05761327813",
-    "name": "Raunak",
-    "email": "raunak@gmail.com",
-    "password": "123",
-    "mobile": "9090909090",
+    "name": "Owner",
+    "email": "demo_owner@gmail.com",
+    "password": "12345",
+    "mobile": "1234567898",
     "role": "owner"
   }
 ]
