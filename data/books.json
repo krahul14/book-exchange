@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Classic",
+    "contact": "owner@example.com",
+    "ownerId": "owner1",
+    "status": "available",
+    "cover": "https://images.unsplash.com/photo-1532012197267-da84d127e765"
+  },
+  {
+    "id": "2",
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "Self-help",
+    "ownerId": "owner2",
+    "status": "rented",
+    "cover": "https://images.unsplash.com/photo-1532012197267-da84d127e765"
+  },
+  {
+    "id": "26a454f3-d479-4277-9353-9da058e5daac",
+    "status": "available",
+    "title": "Game of thrones",
+    "author": "GRR Martin",
+    "genre": "Drama",
+    "contact": "raunakB@marin.com",
+    "cover": "https://picsum.photos/200/300",
+    "ownerId": "be96c0b3-557b-4c4a-acd0-f05761327813"
+  }
+]
