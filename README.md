@@ -20,9 +20,9 @@ Password: 12345<br>
 Email: demo_owner@gmail.com <br>
 Password: 12345<br>
 
-### Installation Guide
+## Installation Guide
 
-git clone https://github.com/your-username/book-exchange.git<br>
+git clone https://github.com/krahul14/book-exchange.git<br>
 cd book-exchange<br>
 
 ### Install dependencies
