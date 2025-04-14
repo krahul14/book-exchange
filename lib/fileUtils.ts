@@ -1,7 +1,7 @@
 import fs from 'fs/promises';
 import path from 'path';
 
-export async function readData(fileName: string) {
+export async function readData<T>(fileName: string): Promise<T[]> {
   const filePath = path.join(process.cwd(), 'data', fileName);
   try {
     const data = await fs.readFile(filePath, 'utf8');
@@ -11,7 +11,7 @@ export async function readData(fileName: string) {
   }
 }
 
-export async function writeData(fileName: string, data: any) {
+export async function writeData<T>(fileName: string, data: T[]): Promise<void> {
   const filePath = path.join(process.cwd(), 'data', fileName);
   await fs.writeFile(filePath, JSON.stringify(data, null, 2), 'utf8');
 }
