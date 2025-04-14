@@ -21,14 +21,19 @@ Email: demo_owner@gmail.com <br>
 Password: 12345<br>
 
 ## Installation Guide
-
-git clone https://github.com/krahul14/book-exchange.git<br>
-cd book-exchange<br>
+```bash
+git clone https://github.com/krahul14/book-exchange.git
+cd book-exchange
+```
 
 ### Install dependencies
+```bash
 npm install
-
+```
 ### run the dev server
-npm run dev<br><br>
+```bash
+npm run dev
+```
+
 
 App runs at: http://localhost:3000
