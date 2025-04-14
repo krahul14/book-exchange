@@ -12,23 +12,23 @@ You can log in directly with the following demo accounts:
 
 ###  Book Seeker
 
-Email: demo_seeker@gmail.com
-Password: 12345
+Email: demo_seeker@gmail.com<br>
+Password: 12345<br>
 
 ###  Book Owner
 
-Email: demo_owner@gmail.com
-Password: 12345
+Email: demo_owner@gmail.com <br>
+Password: 12345<br>
 
 ### Installation Guide
 
-git clone https://github.com/your-username/book-exchange.git
-cd book-exchange
+git clone https://github.com/your-username/book-exchange.git<br>
+cd book-exchange<br>
 
-# install dependencies
+### Install dependencies
 npm install
 
-# run the dev server
-npm run dev
+### run the dev server
+npm run dev<br><br>
 
 App runs at: http://localhost:3000
